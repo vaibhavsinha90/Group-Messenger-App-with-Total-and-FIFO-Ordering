@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bolt/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/goku.png",
+        "source": "/Users/bolt/AndroidStudioProjects/GroupMessenger2/app/src/main/res/drawable-xhdpi/goku.png"
+    },
+    {
+        "merged": "/Users/bolt/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/bolt/AndroidStudioProjects/GroupMessenger2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
